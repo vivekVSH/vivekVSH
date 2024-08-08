@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @vivekVSH
-i have write code in the c++ of the DSA problem which every program can run properly.
+i have write code in the 'C' of the DSA problem which every program can run properly.
 
 <!---
 vivekVSH/vivekVSH is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
