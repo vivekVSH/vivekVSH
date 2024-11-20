@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @vivekVSH
-i have write code in the 'C' of the DSA problem which every program can run properly.
+I have write code in the 'C' of the DSA problem which every program can run properly.
+To run this codes you have to sucessfully install vs code and c language environment.
 
 <!---
 vivekVSH/vivekVSH is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
