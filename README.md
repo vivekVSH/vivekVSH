@@ -15,16 +15,4 @@ Hi, I’m Vivek – a **Computer Science professional** skilled in **Cyber Secur
 
 ---
 
-## 🎓 Certifications  
-
-Certified in **DSA**, **AI/ML**, **AWS**, **Python**, **Cybersecurity**, **Cloud Computing**, and more.  
-
----
-
-## 💡 Interests  
-
-Traveling | E-Sports | Indoor Games  
-
----
-
 Let’s connect and create something amazing!  
