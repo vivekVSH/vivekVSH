@@ -15,4 +15,4 @@ Hi, I’m Vivek – a **Computer Science professional** skilled in **Cyber Secur
 
 ---
 
-Let’s connect and create something amazing!  
+Let’s connect with me and create something amazing!  
