@@ -2,7 +2,7 @@
 
 ## 🚀 About Me  
 
-Hi, I’m Vivek – a **Computer Science professional** skilled in **Cyber Security, AI/ML, Web & Android Development, Blockchain,** and **Network Security**. Proficient in `C/C++`, `Python`, `Java`, `SQL`, and more, I’m passionate about building secure and innovative tech solutions.  
+Hi, I’m Vivek – a **Computer Science professional** skilled in **Cyber Security, AI/ML, Web & Android Development, Blockchain,** and **Network Security**. Proficient in `C/C++`, `Python`, `Java`, `SQL`, and more, I’m passionate about building secure and innovative tech solutions. 
 
 ---
 
