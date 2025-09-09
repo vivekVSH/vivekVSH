@@ -9,7 +9,7 @@ Hi, I’m Vivek – a **Computer Science professional** skilled in **Cyber Secur
 ## 🛠️ Skills  
 
 - **Programming:** `C/C++`, `Python`, `Java`, `SQL`, `PHP` , `JavaScript` 
-- **Cybersecurity:** Network Security, Ethical Hacking, GRC, IAM , VAPT , Web-Security 
+- **Cybersecurity:** `Network Security`, `Ethical Hacking`, `GRC, IAM` , `VAPT` , `Web-Security`. 
 - **Web & Android Development:** `React.js`, `Node.js`, `Flutter`, `Dart`, `Express` , `MongoDB` , `Django` , `Flask`
 - **Tools:** `GitHub`, `Docker`, `Wireshark`, `Kubernetes`, `Microsoft Azure` , `Linux` 
 
